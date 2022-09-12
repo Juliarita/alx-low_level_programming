@@ -10,22 +10,21 @@
 */
 int main(void)
 {
-	int i = 0;
+	char ch = '0';
 
-	while (i < 10)
+	for (ch = '0'; ch <= '9'; ch++)
 	{
-		putchar(i + '0');
-		if(x); 	{
-				(i < 9);
-
-			}
+		if (ch == '9')
+		{
+			putchar(ch);
+		}
+		else
+		{
+			putchar(ch);
+			putchar(',');
+			putchar(',');
+		}
 	}
-	putchar(44);
-	putchar(32);
-	{
-		i++;
-	}
-	putchar('\n');
 
 	return (0);
 }
