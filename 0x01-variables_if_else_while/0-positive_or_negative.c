@@ -2,7 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 
-/* betty style doc for function main goes there*/
+/**
+* main - main blocK
+* Description: Print sign of a random value
+* Return: 0
+*/
 int main(void)
 {
 	int n;
