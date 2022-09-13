@@ -1,6 +1,6 @@
-#includ "putchar.c"
+#include "main.h" 
 /**
-* main - print "_putchar" followed by a new line
+* main - print "0-putchar.c" followed by a new line
 *
 *Return: Always 0.
 */
