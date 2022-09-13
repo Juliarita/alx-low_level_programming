@@ -1,15 +1,13 @@
-/*
-* File: 0-putchar.c and main.h
-*
-*/
-
-#include <stdio.h>
+#include "main.h"
 
 /**
 * main - print "_putchar" followed by a new line
 *
-*Return: Always 0.
+* Description: prints _purchar
+*
+* Return: Always 0.
 */
+
 int main(void)
 {
 	_putchar('0');

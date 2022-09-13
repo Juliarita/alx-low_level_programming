@@ -5,7 +5,13 @@
 #include <main.h>
 
 /**
-* print_alphabet_x10(void)
+* main -check the code
+*
+* print_alphabet_x10
+*
+*return: Always 0.
+*/
+int main(void) 
 {
 	int count = 0;
 	char letter;
