@@ -1,12 +1,13 @@
 /*
-* File: 0-putchar.c
+* File: 0-putchar.c and main.h
 *
 */
 
-#include "putchar.C"
+#include "main.h"
+#include "putchar.c"
 
 /**
-* main - print "main.h" followed by a new line
+* main - print "_putchar" followed by a new line
 *
 *Return: Always 0.
 */
