@@ -3,9 +3,8 @@
 *
 */
 
-#include <stdio.h>
+
 #include <main.h> 
-#include "putchar.c"
 
 /**
 * main - print "_putchar" followed by a new line
