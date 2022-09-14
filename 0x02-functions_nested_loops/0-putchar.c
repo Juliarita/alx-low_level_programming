@@ -9,9 +9,10 @@
 */
 
 int main(void)
-int _puchar(char c);
+int _puchar(char c) 
 {
 	_putchar('0');
+	_putchar('\n');
 
 	return (0);
 }
