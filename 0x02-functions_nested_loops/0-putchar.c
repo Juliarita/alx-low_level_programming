@@ -5,7 +5,7 @@
 * this program prints _putchar
 * Return: 0
 */
-int main(void)
+int main(void);
 {
 	char var[] = "_putchar";
 	int i;
