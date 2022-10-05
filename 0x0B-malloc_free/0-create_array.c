@@ -3,14 +3,21 @@
 #include <stdlib.h>
 /**
 * create_array - this function is to call an array of chars
-* @size : inegter permater of the arrays 
-* @array : chars of array 
+* @size : inegter permater of the arrays
+* @array : chars of array
 * return 0
 */
 
-char *create_array(unsigned int size, char c);
+char *create_array(unsigned int size, char arr)
 {
+char *array_alloc = malloc(size * sizeof(char));
+unsigned int i;
 
-	return 0;
+if (size == 0 || array_alloc == NULL)
+return (NULL);
+
+for (i = 0; i < size; i++)
+array_alloc[i] = arr;
+
+return (array_alloc);
 }
- 
