@@ -1,7 +1,10 @@
-#ifndef POINTER_FUNC
-#define POINTER_FUNC
+#ifndef VARIADIC
+#define VARIADIC
 
 #include <stdio.h>
+#include <stdlib.h>
+#include <stdarg.h>
+#include <stddef.h>
 
 int _putchar(char c);
 int sum_them_all(const unsigned int n, ...);
