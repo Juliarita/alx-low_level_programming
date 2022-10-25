@@ -5,11 +5,11 @@
 4. a function that frees a listint_t list.
 5. a function that frees a listint_t list
 6. a function that deletes the head node of a listint_t linked list, and returns the head node’s data (n).
-    a function that returns the nth node of a listint_t linked list.
-    a function that returns the sum of all the data (n) of a listint_t linked list
-    a function that inserts a new node at a given position.
-    a function that deletes the node at index index of a listint_t linked list.
-    a function that reverses a listint_t linked list
-    a function that prints a listint_t linked list
-    a function that frees a listint_t list
-    a function that finds the loop in a linked list.
+7. a function that returns the nth node of a listint_t linked list.
+8. a function that returns the sum of all the data (n) of a listint_t linked list
+9.  a function that inserts a new node at a given position.
+10. a function that deletes the node at index index of a listint_t linked list.
+11. a function that reverses a listint_t linked list
+12. a function that prints a listint_t linked list
+13. a function that frees a listint_t list
+14. a function that finds the loop in a linked list.
