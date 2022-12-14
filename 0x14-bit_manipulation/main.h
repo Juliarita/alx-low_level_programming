@@ -15,3 +15,7 @@ unsigned int flip_bits(unsigned long int n, unsigned long int m);
 int get_endianness(void);
 
 #endif /* MAIN_H */
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2342b4d6a80e25b7ac1d39da37652821af009de9
